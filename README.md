@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mariana-lab/simple-gfx-game-skeleton">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo"  height="80">
   </a>
 
   <h3 align="center">SIMPLE GRAPHICS GAME SKELETON</h3>
@@ -91,7 +91,7 @@ You'll need an IDE of your choice to program.
 ### Installation
 1. Clone the repo
 ```sh
-git clone https:://github.com/marianabarros/simple-gfx-game-skeleton.git
+git clone https://github.com/marianabarros/simple-gfx-game-skeleton.git
 ```
 2. Open the project with your IDE
 <!--3. Install NPM packages
